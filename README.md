@@ -21,10 +21,9 @@ Built using Unity 2022.3.45f1
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
  
 
-## Future Development
+## Username
 
-Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, etc.
-
+Lutumna
 ## Created by 
 
-Nathan Mishler
+Daniyaal Hussain
